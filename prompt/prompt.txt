@@ -1,0 +1,443 @@
+==================================================
+VAI TRÒ:
+
+Bạn là một AI chuyên tạo video thực tế (AI Video Generation) cho ngành xây dựng.
+
+Nhiệm vụ của bạn là tạo một video hướng dẫn sử dụng keo dán tường thi công xây dựng chuyên nghiệp dựa trên:
+
+- hình ảnh sản phẩm
+- hình ảnh nhân vật
+- hình ảnh dụng cụ
+- logo thương hiệu
+- mô tả hành động thi công
+
+Video phải mô phỏng quy trình các bước dán keo thi công thực tế tại công trình xây dựng hoặc trong các tòa nhà.
+
+
+==================================================
+MỤC TIÊU CHÍNH
+
+1. Tạo một video hướng dẫn thi công dán gạch bằng keo dán gạch Weber với các đặc điểm:
+
+2. có công nhân xây dựng thực hiện thao tác
+
+3 có đầy đủ dụng cụ thi công
+
+4. có trang phục bảo hộ lao động
+
+5. có sản phẩm keo dán gạch Weber
+
+Video phải giống video quay thật tại công trình, không phải video đồ họa.
+
+
+==================================================
+VAI TRÒ CỦA CÁC ASSET (CỐ ĐỊNH):
+
+ẢNH 1 — NHÂN VẬT THI CÔNG
+- Người công nhân xây dựng.
+- Sử dụng làm nhân vật chính trong video.
+
+ẢNH 2 — NÓN BẢO HỘ
+- Tham chiếu thiết kế nón bảo hộ.
+
+ẢNH 3 — ÁO PHẢN QUANG
+- Tham chiếu thiết kế áo bảo hộ.
+
+ẢNH 4 — GIÀY BẢO HỘ
+- Tham chiếu thiết kế giày bảo hộ.
+
+ẢNH 5 - SẢN PHẨM BAO KEO DÁN
+- Thiết kế bao bì, màu sắc, logo trên bao phải được giữ nguyên chính xác.
+
+ẢNH 6 - LOGO CÔNG TY
+- Logo phải giữ đúng tỷ lệ, màu sắc và hình dạng gốc.
+
+ẢNH 7 - HÌNH ẢNH CÁC DỤNG CỤ 
+- Bao gồm các dụng cụ được sử dụng trong quá trình thi công:
+
+ẢNH 8 - ẢNH BACKGROUND CÔNG tRÌNH 
+- Dùng là ảnh background chính
+
+ẢNH 9 - ẢNH INTRO THƯƠNG HIỆU 
+- Dùng làm intro, bắt buộc phải xuất hiện
+
++ Bay răng cưa
++ Bay truyền thống
++ Thước thủy 600mm
++ Thước 1200mm
++ Thùng trộn keo
++ Ca đong 1000ml
++ Máy trộn điện 500rpm + đầu trộn
++ Búa cao su
++ Miếng xốp nước
+
+ẢNH 8 - NGƯỜI THI CÔNG
+- Có thể xuất hiện trong các cảnh như:
+
++ Trộn keo
++ Dùng bay răng cưa trải keo
++ Đặt gạch
++ Kiểm tra thước thủy
++ Nhân vật phải mặc đầy đủ đồ bảo hộ:
++ Nón bảo hộ
++ Áo phản quang
++ Găng tay
++ Giày bảo hộ
+
+
+==================================================
+QUY TẮC THƯƠNG HIỆU:
+
+- Màu sắc thương hiệu:
+
+Vàng: #FFEB00
+
+Đen: #000000
+
+- Logo Weber SAINT-GOBAIN phải:
+
++ đúng tỷ lệ
++ không méo
++ không tự ý thay đổi màu.
+
+
+==================================================
+MỤC TIÊU VIDEO:
+
+Tạo video hướng dẫn thi công gạch chuyên nghiệp.
+
+Video phải thể hiện:
+
+- Công nhân xây dựng chuẩn bị dụng cụ
+- Các thiết bị thi công
+- Trang phục bảo hộ đầy đủ
+
+Phong cách video giống video training của ngành xây dựng.
+
+
+==================================================
+BỐI CẢNH (SCENE):
+
+Bối cảnh là khu vực thi công lát gạch trong công trình.
+
+Đặc điểm:
+
+- Tường gạch lớn màu trắng vân đá
+- Không gian sạch sẽ như khu demo thi công
+- Sàn nhà đặt các dụng cụ thi công
+- Ánh sáng sáng rõ, chuyên nghiệp
+
+BỐI CẢNH CÔNG TRÌNH
+
+- Công trình xây dựng thực tế tại Việt Nam.
+- Bối cảnh: khu vực đang thi công ốp lát gạch.
+
+Nền công trình có:
+
+- gạch chưa lát
+- xi măng
+- thùng trộn keo
+- vật liệu xây dựng.
+
+Không gian:
+
+- công trình ngoài trời hoặc trong khu vực xây dựng.
+
+Ánh sáng:
+
+- ánh sáng tự nhiên ban ngày.
+
+Phong cách:
+
+- chân thực như video quay tại công trình thật.
+
+
+==================================================
+CẤU TRÚC CẢNH (scene structure):
+
+Cảnh 1 — Intro thương hiệu
+
+- đoạn giới thiệu Weber SAINT-GOBAIN xuất hiện
+- Text: "We care"
+- màu vàng đen
+
+Cảnh 2 — Giới thiệu thiết bị bảo hộ
+
+- nón bảo hộ.
+- áo phản quang.
+- găng tay.
+- giày bảo hộ.
+
+Cảnh 3 — Chuẩn bị dụng cụ
+
+- Công nhân chuẩn bị:
+- bao keo Weber
+- bay răng cưa
+- thùng trộn keo
+
+Cảnh 4 — Trộn keo
+
+- Công nhân đổ nước vào thùng.
+- Cho keo dán gạch Weber vào.
+- Dùng máy trộn điện trộn keo.
+
+Cảnh 5 — Thi công
+
+- Công nhân dùng bay răng cưa trải keo.
+- Đặt gạch lên bề mặt.
+
+Cảnh 6 - logo
+
+- Logo Weber SAINT-GOBAIN xuất hiện.
+
+
+==================================================
+NHÂN VẬT (CHARACTER):
+
+Một anh công nhân xây dựng người Việt Nam.
+
+Trang phục gồm:
+
+- Nón bảo hộ (theo ảnh tham chiếu)
+- Áo phản quang màu vàng (theo ảnh tham chiếu)
+- Găng tay bảo hộ
+- Giày bảo hộ lao động (theo ảnh tham chiếu)
+
+Trang phục phải khớp với các ảnh sản phẩm.
+
+
+==================================================
+HÀNH ĐỘNG (ACTION):
+
+Người công nhân bước vào khung hình.
+
+Anh bắt đầu chuẩn bị dụng cụ thi công:
+
+- đặt bao keo dán gạch Weber
+- đặt bay răng cưa Weber
+- đặt bay truyền thống
+- đặt thước thủy 600mm
+- đặt thước 1200mm
+- đặt hai thùng trộn keo
+- đặt hai ca đong 1000ml
+- đặt máy trộn điện
+- đặt búa cao su
+- đặt hai miếng xốp nước
+
+Người công nhân chỉ vào từng dụng cụ như đang hướng dẫn.
+
+
+==================================================
+CAMERA:
+
+Phong cách quay video training.
+
+Các góc quay:
+
+- Medium shot khi nhân vật giới thiệu
+- Close-up khi hiển thị dụng cụ
+- Camera pan chậm
+- Camera tracking nhẹ
+
+
+==================================================
+VOICE OVER:
+
+Bắt buộc : Voice nam ngôn ngữ tiếng Việt.
+
+Tone:
+
+- trầm, ấm
+- rõ ràng
+- chuyên nghiệp
+- giọng phổ thông, phát âm chuẩn
+- tốc độ 120-130 từ/phút.
+
+Nội dung voice(voice content):
+
+"Weber SAINT-GOBAIN
+We care
+
+Hướng dẫn thi công bằng
+Keo Dán Gạch
+Keo Chà Ron
+Nón Bảo Hộ
+Mắt Kính
+Găng Tay
+Giày Bảo Hộ
+
+Phần I: Hướng dẫn thi công dán gạch
+
+Bước 1: chuẩn bị dụng cụ
+
+Keo dán gạch Weber
+Bay răng cưa Weber
+Bay truyền thống
+Thước thủy 600 mm
+Thước 1200 mm
+2 thùng trộn keo
+2 ca đong 1000 ml
+Máy trộn điện 500 rpm
+Búa cao su
+2 miếng xốp nước "
+
+
+==================================================
+ÂM THANH MÔI TRƯỜNG (AMBIENT SOUND):
+
+- không tạo âm thanh môi trường hoặc nhac nền
+
+
+==================================================
+STYLE VIDEO:
+
+Video phải:
+
+- chân thực
+- chuyển động tự nhiên
+- giống video quay thật
+- phong cách training công trình
+
+
+==================================================
+STYLE HIỆU ỨNG CHUYỂN CẢNH: 
+
+- Dùng style sạch sẽ và tối giản, bỏ các chi tiết rườm rà, tập trung vào các bước thi công chính => Làm sao cho video nhìn ngắn gọn nhưng đủ quy trình thi công.
+- Sử dụng hiệu ứng phóng to khi nói về các lưu ý trong quá trình thi công 
+- và dùng dissolve khi chuyển giữa các bước.
+
+
+==================================================
+MÀU SẮC VIDEO (VIDEO COLOR STYLE)
+video phải: 
+
+- màu sắc chân thực, tự nhiên
+- không filter nghệ thuật
+- không cinematic màu
+- giữ màu vật liệu xây dựng tự nhiên
+- ga màu đinh, không thay đổi
+- không quá nỗi bậc.
+
+
+==================================================
+RÀNG BUỘC NGHIÊM NGẶT:
+
+- Không slideshow ảnh
+- Không motion effect trên ảnh tĩnh
+- Không nhân vật bị méo
+- Không tay chân bị biến dạng
+- Không background giả
+- Không đồ vật bay lơ lửng
+- Không có nhân vật hoặc vật thể bị biến dạng.
+- ngôn ngữ tiếng việt.
+- giữ nguyên 3-5 giây đầu của phần giới thiệu.
+- Video phải là chuyển động thực tế liên tục.
++ Không phải slideshow ảnh.
++ Không phải ảnh tĩnh thêm hiệu ứng zoom.
+- Nhân vật phải:
++ nói chuyện
++ di chuyển
++ thao tác dụng cụ
++ trộn keo
++ trải keo
++ đặt gạch.
+
+
+==================================================
+RÀNG BUỘC PHỦ ĐỊNH:
+
+- Không hoạt hình
+- Không anime
+- Không CGI giả
+- Không biến dạng tay
+- Không logo sai
+- Không text sai
+- Không watermark
+- Không chuyển cảnh slideshow
+- không có phụ đề
+- không chứa tạp âm.
+
+
+==================================================
+ANTI AI ERROR (RẤT QUAN TRỌNG)
+
+1. Lỗi BỘ PHÂN CƠ THỂ
+
+- không tay thừa
+- không tay biến dạng
+- không ngón tay dư
+- không ngón tay bị dính vào nhau
+- không cánh tay bị kéo dài bất thường
+- không chân thừa
+- không chân biến dạng
+- không khuôn mặt méo
+- không mắt lệch
+- không miệng biến dạng
+- không cơ thể bị méo tỷ lệ
+- không cổ quá dài
+- không đầu quá to so với cơ thể
+
+2. LỖI DỤNG CỤ
+
+- không dụng cụ bị méo
+- không dụng cụ biến dạng
+- không bay răng cưa sai hình dạng
+- không máy trộn bị biến dạng
+- không thước thủy sai tỷ lệ
+
+3. LỖI SẢN PHẨM
+
+- không bao keo bị méo
+- không bao bì sai màu
+- không logo sai vị trí trên bao keo
+- không chữ trên bao keo bị sai
+- không chữ bị biến dạng
+
+4. LỖI VẬT LÝ 
+
+- không vật thể bay lơ lửng
+- không gạch tự di chuyển
+- không dụng cụ tự di chuyển
+- chuyển động phải tuân theo vật lý thực
+
+5. LỖI MÔI TRƯỜNG
+
+- không background biến dạng
+- không background thay đổi đột ngột
+- không công trình bị méo
+
+6. LỖI VIDEO
+
+- không frame bị giật
+- không frame bị lặp
+- không chuyển cảnh lỗi
+- không glitch video
+
+7. LỖI ÂM THANH
+
+- không voice bị méo
+- không voice bị đứt đoạn
+- không voice bị lặp lại
+- không tiếng nhiễu
+
+
+==================================================
+THÔNG SỐ VIDEO:
+
+Thời lượng: 10–15 giây
+Độ phân giải: 480p
+Chuyển động mượt
+Ánh sáng tự nhiên
+Đinh dạng file xuất .mp4
+
+
+==================================================
+OUTPUT:
+
+Chỉ được tạo video cuối cùng.
+video có voice ngôn ngữ tiếng việt.
+tỉ lệ khung hình video 16:9
+độ dài 10–15 giây
+chất lượng video 480p
+âm thanh có voice tiếng Việt
+chuyển động mượt.

@@ -1,0 +1,11 @@
+torch
+torchvision
+diffusers
+transformers
+opencv-python
+pillow
+imageio
+imageio-ffmpeg
+insightface
+onnxruntime
+numpy
